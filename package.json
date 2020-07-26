@@ -16,9 +16,13 @@
     "@babel/plugin-syntax-jsx": "^7.10.4",
     "babel-plugin-module-resolver": "^4.0.0",
     "babel-polyfill": "^6.26.0",
+    "dotenv-safe": "^8.2.0",
     "express": "^4.16.3",
     "react": "^16.13.1",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "secure-env": "^1.2.0",
+    "sequelize": "^6.3.3",
+    "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
